@@ -5,16 +5,16 @@
 ##### HARRY
 ###### HARRY
 
-:happy
-
-
+# :sunny:
 
 ![NKUST](NKUST.png[NKUST])
 
 
--[] todo list 
--[x]done
+- [ ] todo list 
+- [x] done
 
 
-'''python
+```python
 S = "Python Syntax Highlighting"
+print s
+```
