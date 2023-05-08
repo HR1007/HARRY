@@ -7,7 +7,7 @@
 
 # :sunny::dog::shit:
 
-![NKUS](NKUST.png "NKUS")
+![NKUS](NKUS.png "NKUS")
 ![Mobile Banking](Mobile Banking.png "Mobile Banking")
 
 1.First ordered list item
